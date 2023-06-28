@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "title": " What character initially\n goes by the name Strider ?",
+            "answer": ["Legolas","Aragorn","Gandalf"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Before he was called Gollum,\n what was he known as?",
+            "answer": ["Bilbo", "Déagol", "Sméagol"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "Frodo's shirt of mail is made\n from what fictional metal?",
+            "answer": ["Galadhrim", "Mithril", "Silver"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "How many members are \n there in the Fellowship of the Ring?",
+            "answer": ["8", "5", "9"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "Where were they taking\n the hobbits ?",
+            "answer": ["Isengard", "Gondor", "Erebor"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "To whom did Gandalf say\n they shall not pass ?",
+            "answer": ["Frodo", "The Balrog", "Azog"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "What is the real name of\n Sauron the the Abhorred ?",
+            "answer": ["Mairon", "Elendil", "Isildur"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "Frodo's father was called ?",
+            "answer": ["Drogo", "Fosco", "Burdo"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "What did Sauron \n original name mean ?",
+            "answer": ["King Excellent", "The Darkness", "The Admirable"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "What have I got in my pocket?",
+            "answer": ["The One Ring", "the Ring One", "One The Ring"],
+            "goodAnswer": 0
+        }
+  ]
+}

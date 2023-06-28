@@ -1,0 +1,5 @@
+TREE JSON
+
+questions [10]    - question (string) 
+                - correct answer(int between 1 and 3)
+                - all the answers possible [3] (string)
